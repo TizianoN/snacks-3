@@ -25,4 +25,4 @@ do {
 
 } while (userNumber != secretNumber)
 
-alert("Congratulations!\nSecret number was " + secretNumber + ".\nIt took " + tries.length + " for you to guess")
+alert("Congratulations!\nSecret number was " + secretNumber + ".\nIt took " + tries.length + " tries for you to guess")
